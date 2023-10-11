@@ -1,0 +1,6 @@
+@font-face { font-family: 'Taylor Swift'; src: url("/fonts/Taylor\ Swift\ Handwriting.ttf"); } 
+
+body {
+    font-family: 'Taylor Swift';
+    color: blue;
+}
